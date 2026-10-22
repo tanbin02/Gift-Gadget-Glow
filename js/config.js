@@ -1,7 +1,7 @@
 // ====== এখানে আপনার সেটিংস ======
 window.APP_CONFIG = {
   // Apps Script "Web app" URL এখানে paste করবেন (README দেখুন)
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbyoK1bSQ9EoS23Tzpi7USN93gDjcI0MvUa07Ged-hgK7XnVGmHzx_IM0IPUVMbTTQeP/exec",
 
   SHOP_NAME: "Gift-Gadget-Glow",
   TAGLINE: "Gifts • Gadgets • Mobile Accessories",
